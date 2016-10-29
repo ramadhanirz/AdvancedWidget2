@@ -8,7 +8,6 @@
 
 
 *IDENTITAS
-
 <p> Nama : Riza Ramadhani
 <p> Kelas : XII RPL 2
 <p> No. Absen : 33
